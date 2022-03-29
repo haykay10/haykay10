@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Mobile Development
 - 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... [twitter](twitter.com/kiel0810)
+- 📫 How to reach me ... [twitter](twitter.com/@kiel0810)
 
 <!---
 haykay10/haykay10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
